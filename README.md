@@ -1,6 +1,6 @@
-# VKRdownloader 
+# Youtube Video Downloader 
 
-Video Downloader by  @TherealVKR Vijay Kumar ....
+Video Downloader by  @SahibUmrani ....
 
 # Download Video From YouTube , Facebook , Twitter , Instagram , TikTok , And  1000+ Other Website in All Audio / Video Quality ...
 
@@ -19,9 +19,6 @@ Open Your Site And it start Working ....
 
 # For Any kind of Help 
 
-Contact me On Facebook  : https://facebook.com/therealvkr
+Contact me On InstaGram  : https://instagram.com/SahibKhaan
 
-Contact me On Twitter   : https://twitter.com/therealvkr
-
-
-Contact me On Mail      : contactvkr@yahoo.com  
+Contact me On Twitter   : https://twitter.com/SahibUmrani
