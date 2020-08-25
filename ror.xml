@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://xeeflix.xyz/</title>
+  <link>XeeFlix.xyZ</link>
+
+<item>
+     <link>https://xeeflix.xyz/</link>
+     <title>
+  SahibKhaan : Welcome to The Official Website Of SahibKhaan @SahibUmrani </title>
+     <description>  SahibKhaan: A Simple 20-year-old Student, Blogger and Website Designer ... 
+I Developed World's Only YouTube Videos Downloader That Search Convert and Download Any YouTube Videos All Available Audio/ Video Quality,
+And Also I create XeeFlix.XyZ where you can find multi tools online
+ You can contact with me by mail management.sahibkhaan@gmail.com  </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://xeeflix.xyz/contact-us/</link>
+     <title>Contact us </title>
+     <description>Contact us </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
